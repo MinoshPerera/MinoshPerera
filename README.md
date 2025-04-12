@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Minosh Perera
 
 ## 💡 AI & EEE Enthusiast | Cloud Solution Architect Intern at Huawei
-
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/minoshperera)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sithijaperera3@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/minosh.pereraa)
