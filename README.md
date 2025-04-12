@@ -19,5 +19,5 @@ I'm a passionate Electrical and Electronic Engineering undergraduate with a stro
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minosh-perera&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minosh-perera&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinoshPerera&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinoshPerera&layout=compact&theme=radical)
