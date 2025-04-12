@@ -21,5 +21,3 @@ I'm a passionate Electrical and Electronic Engineering undergraduate with a stro
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minosh-perera&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minosh-perera&layout=compact&theme=radical)
-
-boration opportunities. Feel free to reach out if you'd like to discuss technology, engineering projects, or potential collaborations!
