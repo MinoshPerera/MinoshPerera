@@ -17,6 +17,24 @@ I'm a passionate Electrical and Electronic Engineering undergraduate with a stro
 - 💬 Ask me about AI, Electrical & Electronics Engineering, cloud solutions!
 - 📍 Based in Sri Lanka
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinoshPerera&show_icons=true&theme=radical)
