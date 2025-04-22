@@ -13,6 +13,6 @@ I'm a passionate Electrical and Electronic Engineering undergraduate with a stro
 
 - 🔭 Currently working on cloud-based AI solutions at Huawei Technologies
 - 🌱 Learning advanced AI/ML techniques
-- 🎓 BSc Engineering (Hons) student at SLIIT
+- 🎓 BSc (Hons) in Electrical & Electronics Engineering (UG) at SLIIT
 - 💬 Ask me about AI, Electrical & Electronics Engineering, cloud solutions!
 - 📍 Based in Sri Lanka
