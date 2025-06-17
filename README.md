@@ -27,7 +27,7 @@ With experience as a **Cloud Engineer Intern at Huawei Cloud**, I have worked on
 
 ### 🛠️ Languages and Tools
 
-#### 🢁‍♂️ Programming Languages
+#### 🧑‍💻 Programming Languages
 
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
