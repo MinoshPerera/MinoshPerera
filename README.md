@@ -73,40 +73,16 @@ With experience as a **Cloud Engineer Intern at Huawei Cloud**, I have worked on
 ### 📈 GitHub Stats Dashboard
 
 <div align="center">
-
-#### 📊 **Performance Metrics**
 <table>
 <tr>
 <td align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=minoshperera&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 </td>
 <td align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minoshperera&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minoshperera&layout=compact&theme=radical&langs_count=8" />
 </td>
 </tr>
 </table>
-
-#### 🔥 **Language Distribution & Activity**
-<table>
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minoshperera&layout=compact&theme=radical&langs_count=10" />
-</td>
-<td align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=minoshperera&theme=react-dark&hide_border=true" />
-</td>
-</tr>
-</table>
-
-#### 🏆 **GitHub Achievements**
-<img src="https://github-profile-trophy.vercel.app/?username=minoshperera&theme=radical&no-frame=true&row=1&column=7" />
-
-#### 📈 **Quick Stats**
-![Commits](https://img.shields.io/badge/Total%20Commits-1000+-green?style=for-the-badge&logo=git)
-![Projects](https://img.shields.io/badge/Active%20Projects-15+-blue?style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/badge/Stars%20Earned-150+-yellow?style=for-the-badge&logo=github)
-![Forks](https://img.shields.io/badge/Forks-75+-purple?style=for-the-badge&logo=github)
-
 </div>
 
 ---
