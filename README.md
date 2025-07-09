@@ -70,16 +70,16 @@ With experience as a **Cloud Engineer Intern at Huawei Cloud**, I have worked on
 </p>
 
 ---
-### 📈 GitHub Stats Dashboard
+### 📈 GitHub Stats 
 
 <div align="center">
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=minoshperera&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=minoshperera&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" />
 </td>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minoshperera&layout=compact&theme=radical&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minoshperera&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" />
 </td>
 </tr>
 </table>
