@@ -81,8 +81,8 @@ I’m continuously exploring the intersection of **Electrical & Electronic Engin
 #### 🤖 AI & Cloud Platforms
 
 <p align="left">
-  <a href="https://platform.openai.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://platform.openai.com/" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" width="40" height="40"/></a>
   <a href="https://www.huaweicloud.com/intl/en-us/" target="_blank" rel="noreferrer"><img src="https://www.huaweicloud.com/favicon.ico" alt="Huawei Cloud" width="40" height="40"/></a>
 </p>
 
@@ -92,7 +92,6 @@ I’m continuously exploring the intersection of **Electrical & Electronic Engin
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
----
 
 ### 📈 GitHub Stats 
 
