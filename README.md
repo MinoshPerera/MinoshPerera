@@ -48,7 +48,7 @@ I’m continuously exploring the intersection of **Electrical & Electronic Engin
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit" width="40" height="40"/></a>
-  <a href="https://www.chainlit.io/" target="_blank" rel="noreferrer"><img src="https://www.chainlit.io/favicon.ico" alt="Chainlit" width="40" height="40"/></a>
+  <a href="https://www.chainlit.io/" target="_blank" rel="noreferrer"><img src="https://docs.chainlit.io/favicon.svg" alt="Chainlit" width="40" height="40"/></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
@@ -83,7 +83,7 @@ I’m continuously exploring the intersection of **Electrical & Electronic Engin
 <p align="left">  
   <a href="https://platform.openai.com/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.64.0/files/light/openai.png" alt="OpenAI" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://www.huaweicloud.com/intl/en-us/" target="_blank" rel="noreferrer"><img src="https://www.huaweicloud.com/favicon.ico" alt="Huawei Cloud" width="40" height="40"/></a>
+  <a href="https://www.huaweicloud.com/intl/en-us/" target="_blank" rel="noreferrer"><img src="https://indonet.co.id/wp-content/uploads/2023/10/Huawei-Cloud-Logo-Black.png" width="40" height="40"/></a>
   <a href="https://ollama.com/" target="_blank"><img src="https://ollama.com/public/ollama.png" alt="Ollama" width="30" height="40"/></a>
 </p>
 
@@ -93,6 +93,8 @@ I’m continuously exploring the intersection of **Electrical & Electronic Engin
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
+
+---
 
 ### 📈 GitHub Stats 
 
