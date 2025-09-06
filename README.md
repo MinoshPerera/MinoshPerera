@@ -1,18 +1,20 @@
 # 👋 Hi, I'm Minosh Perera
 
-![Profile Views](https://komarev.com/ghpvc/?username=minoshperera\&label=Profile%20views\&color=0e75b6\&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=minoshperera&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 💡 AI & EEE Enthusiast | Data Science & AI Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/minoshperera)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:sithijaperera3@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge\&logo=facebook)](https://www.facebook.com/minosh.pereraa)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-e4405f?style=for-the-badge\&logo=instagram)](https://www.instagram.com/minosh.perera/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/minoshperera)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sithijaperera3@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/minosh.pereraa)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-e4405f?style=for-the-badge&logo=instagram)](https://www.instagram.com/minosh.perera/)
 
 ---
 
-I'm a passionate **Electrical and Electronic Engineering undergraduate** with a strong interest in **Artificial Intelligence**, **Machine Learning**, and **Cloud Computing**.
-With experience as a **Cloud Engineer Intern at Huawei Cloud**, I have worked on designing and deploying scalable, cost-efficient AI/ML solutions in production cloud environments. I’m continuously exploring the intersection of **EEE and intelligent software systems**, and love building innovative products that solve real-world problems.
+I'm a passionate **Electrical and Electronic Engineering undergraduate** with a strong interest in **Artificial Intelligence**, **Machine Learning**, and **Cloud Computing**.  
+
+Currently working as an **AI/ML Engineer Intern at Aethria Solutions**, where I architected and deployed **RAG (Retrieval-Augmented Generation) systems** - achieving faster, scalable, and intelligent retrieval. I also gained valuable experience as a **Cloud Engineer Intern at Huawei**, contributing to **scalable, cost-efficient AI/ML solutions** on cloud platforms.  
+I’m continuously exploring the intersection of **Electrical & Electronic Engineering and intelligent software systems**, and I love building **innovative AI-driven products** that solve real-world problems.  
 
 ---
 
@@ -44,8 +46,11 @@ With experience as a **Cloud Engineer Intern at Huawei Cloud**, I have worked on
 
 <p align="left">
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="streamlit" width="40" height="40"/></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/></a>
 </p>
 
@@ -59,6 +64,8 @@ With experience as a **Cloud Engineer Intern at Huawei Cloud**, I have worked on
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
   <a href="https://keras.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/></a>
 </p>
@@ -67,9 +74,11 @@ With experience as a **Cloud Engineer Intern at Huawei Cloud**, I have worked on
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
 
 ---
+
 ### 📈 GitHub Stats 
 
 <div align="center">
@@ -91,11 +100,9 @@ With experience as a **Cloud Engineer Intern at Huawei Cloud**, I have worked on
 
 I'm always open to collaboration, research, and product development in the fields of:
 
-* 🌐 AI/ML & Computer Vision
-* 🔋 Electrical and Electronics Engineering Innovation
-* ☁️ Cloud-based Smart Systems
-* 🧠 Applied Research in Sustainable AI
+* 🌐 AI/ML & Computer Vision  
+* 🔋 Electrical and Electronics Engineering Innovation  
+* ☁️ Cloud-based Smart Systems  
+* 🧠 Applied Research in Sustainable AI  
 
 📩 Reach out via [Email](mailto:sithijaperera3@gmail.com) or [LinkedIn](https://linkedin.com/in/minoshperera) — let’s build something great together!
-
----
