@@ -47,7 +47,8 @@ I’m continuously exploring the intersection of **Electrical & Electronic Engin
 <p align="left">
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="streamlit" width="40" height="40"/></a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit" width="40" height="40"/></a>
+  <a href="https://www.chainlit.io/" target="_blank" rel="noreferrer"><img src="https://www.chainlit.io/favicon.ico" alt="Chainlit" width="40" height="40"/></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
@@ -61,7 +62,7 @@ I’m continuously exploring the intersection of **Electrical & Electronic Engin
   <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="60" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
   <a href="https://keras.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
@@ -70,13 +71,27 @@ I’m continuously exploring the intersection of **Electrical & Electronic Engin
   <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/></a>
 </p>
 
+#### 🗄️ Databases & Vector Stores
+
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://www.trychroma.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/110412940?s=200&v=4" alt="ChromaDB" width="40" height="40"/></a>
+</p>
+
+#### 🤖 AI & Cloud Platforms
+
+<p align="left">
+  <a href="https://platform.openai.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://www.huaweicloud.com/intl/en-us/" target="_blank" rel="noreferrer"><img src="https://www.huaweicloud.com/favicon.ico" alt="Huawei Cloud" width="40" height="40"/></a>
+</p>
+
 #### 🧹 Version Control
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
-
 ---
 
 ### 📈 GitHub Stats 
