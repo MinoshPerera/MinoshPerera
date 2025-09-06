@@ -82,7 +82,7 @@ I’m continuously exploring the intersection of **Electrical & Electronic Engin
 
 <p align="left">  
   <a href="https://platform.openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://www.huaweicloud.com/intl/en-us/" target="_blank" rel="noreferrer"><img src="https://www.huaweicloud.com/favicon.ico" alt="Huawei Cloud" width="40" height="40"/></a>
   <a href="https://ollama.com/" target="_blank"><img src="https://ollama.com/public/ollama.png" alt="Ollama" width="30" height="40"/></a>
 </p>
