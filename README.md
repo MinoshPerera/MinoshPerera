@@ -97,7 +97,7 @@ I’m continuously exploring the intersection of **Electrical & Electronic Engin
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman Logo" width="40" height="40"/>
   </a>
   <a href="https://www.huaweicloud.com/intl/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/huaweicloud/huaweicloud-icon.svg" alt="Huawei Cloud Logo" width="40" height="40"/>
+    <img src="https://res-static.hc-cdn.cn/cloudbu-site/intl/en-us/yunying/new-header/logo.png" alt="Huawei Cloud Logo" width="40" height="40"/>
   </a>
   <a href="https://ollama.com/" target="_blank" rel="noreferrer">
     <img src="https://ollama.com/public/ollama.png" alt="Ollama Logo" width="40" height="40"/>
