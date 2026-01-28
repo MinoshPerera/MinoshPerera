@@ -11,7 +11,7 @@
 
 ---
 
-I'm a passionate **Electrical and Electronic Engineering undergraduate** with a strong interest in **Artificial Intelligence**, **Machine Learning**, and **Cloud Computing**.  
+I’m a **graduate in Electrical & Electronics Engineering** with a strong focus on **Artificial Intelligence, Machine Learning, and Cloud-native systems**.
 
 Currently working as an **AI/ML Engineer Intern at Aethria Solutions**, where I architected and deployed **RAG (Retrieval-Augmented Generation) systems** - achieving faster, scalable, and intelligent retrieval. I also gained valuable experience as a **Cloud Engineer Intern at Huawei**, contributing to **scalable, cost-efficient AI/ML solutions** on cloud platforms.  
 I’m continuously exploring the intersection of **Electrical & Electronic Engineering and intelligent software systems**, and I love building **innovative AI-driven products** that solve real-world problems.  
@@ -42,7 +42,7 @@ I’m continuously exploring the intersection of **Electrical & Electronic Engin
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
 </p>
 
-#### ⚙️ Frameworks & Tools
+#### ⚙️ Backend,Frameworks & Tools
 
 <p align="left">
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
@@ -78,20 +78,48 @@ I’m continuously exploring the intersection of **Electrical & Electronic Engin
   <a href="https://www.trychroma.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/110412940?s=200&v=4" alt="ChromaDB" width="40" height="40"/></a>
 </p>
 
-#### 🤖 AI & Cloud Platforms
+#### 🤖 Cloud, DevOps & Messaging
 
-<p align="left">  
-  <a href="https://platform.openai.com/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.64.0/files/light/openai.png" alt="OpenAI" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://www.huaweicloud.com/intl/en-us/" target="_blank" rel="noreferrer"><img src="https://indonet.co.id/wp-content/uploads/2023/10/Huawei-Cloud-Logo-Black.png" width="40" height="40"/></a>
-  <a href="https://ollama.com/" target="_blank"><img src="https://ollama.com/public/ollama.png" alt="Ollama" width="30" height="40"/></a>
+<p align="left">
+  <a href="https://platform.openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.64.0/files/light/openai.png" alt="OpenAI Logo" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins Logo" width="40" height="40"/>
+  </a>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ Logo" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman Logo" width="40" height="40"/>
+  </a>
+  <a href="https://www.huaweicloud.com/intl/en-us/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/huaweicloud/huaweicloud-icon.svg" alt="Huawei Cloud Logo" width="40" height="40"/>
+  </a>
+  <a href="https://ollama.com/" target="_blank" rel="noreferrer">
+    <img src="https://ollama.com/public/ollama.png" alt="Ollama Logo" width="40" height="40"/>
+  </a>
 </p>
+
 
 #### 🧹 Version Control
 
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+<p style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Logo" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Logo" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Logo" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -117,9 +145,10 @@ I’m continuously exploring the intersection of **Electrical & Electronic Engin
 
 I'm always open to collaboration, research, and product development in the fields of:
 
-* 🌐 AI/ML & Computer Vision  
-* 🔋 Electrical and Electronics Engineering Innovation  
-* ☁️ Cloud-based Smart Systems  
-* 🧠 Applied Research in Sustainable AI  
+- 🚀 AI/ML & LLM-based product development  
+- 🔁 RAG systems & intelligent agents  
+- ☁️ Cloud-native AI & MLOps  
+- 🔋 AI applications in Electrical & Energy systems  
+- 🧠 Applied Research in Sustainable AI  
 
 📩 Reach out via [Email](mailto:sithijaperera3@gmail.com) or [LinkedIn](https://linkedin.com/in/minoshperera) — let’s build something great together!
