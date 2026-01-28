@@ -130,7 +130,7 @@ I’m continuously exploring the intersection of **Electrical & Electronic Engin
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=minoshperera&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=minoshperera&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=1800" />
 </td>
 <td align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minoshperera&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" />
