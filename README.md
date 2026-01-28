@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=minoshperera&label=Profile%20views&color=0e75b6&style=flat)
 
-## 💡 AI & EEE Enthusiast | Data Science & AI Developer
+## 💡 AI & EEE Enthusiast | Data Science & AI Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/minoshperera)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:sithijaperera3@gmail.com)
@@ -130,7 +130,7 @@ I’m continuously exploring the intersection of **Electrical & Electronic Engin
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=minoshperera&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=minoshperera&show_icons=true&theme=radical&cache_seconds=1800" />
 </td>
 <td align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minoshperera&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" />
