@@ -74,8 +74,15 @@ I’m continuously exploring the intersection of **Electrical & Electronic Engin
 #### 🗄️ Databases & Vector Stores
 
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.trychroma.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/110412940?s=200&v=4" alt="ChromaDB" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.trychroma.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/110412940?s=200&v=4" alt="ChromaDB" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/facebookresearch/faiss" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/69631?s=200&v=4" alt="Faiss" width="40" height="40"/>
+  </a>
 </p>
 
 #### 🤖 Cloud, DevOps & Messaging
