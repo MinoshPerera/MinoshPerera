@@ -29,7 +29,6 @@ I enjoy building **AI-driven products, intelligent automation systems, and real-
 - 🔋 Exploring **AI applications in Electrical & Energy Systems**
 - 📍 Based in **Sri Lanka**
 
----
 
 # 🧑‍💻 Programming Languages
 
@@ -44,7 +43,6 @@ I enjoy building **AI-driven products, intelligent automation systems, and real-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 </p>
 
----
 
 # ⚙️ Frameworks & Development Tools
 
@@ -59,7 +57,6 @@ I enjoy building **AI-driven products, intelligent automation systems, and real-
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
 </p>
 
----
 
 # 📊 Data & ML Tools
 
@@ -76,7 +73,6 @@ I enjoy building **AI-driven products, intelligent automation systems, and real-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
 </p>
 
----
 
 # 🗄️ Databases & Vector Stores
 
@@ -86,7 +82,6 @@ I enjoy building **AI-driven products, intelligent automation systems, and real-
 <img src="https://avatars.githubusercontent.com/u/69631?s=200&v=4" width="40" height="40"/>
 </p>
 
----
 
 # ☁️ Cloud, DevOps & Messaging
 
@@ -101,7 +96,6 @@ I enjoy building **AI-driven products, intelligent automation systems, and real-
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="40" height="40"/>
 </p>
 
----
 
 # 🔧 Version Control
 
@@ -111,7 +105,6 @@ I enjoy building **AI-driven products, intelligent automation systems, and real-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
 
----
 
 # 📈 GitHub Stats
 
@@ -125,7 +118,6 @@ I enjoy building **AI-driven products, intelligent automation systems, and real-
 
 </div>
 
----
 
 # 📢 Let's Connect!
 
