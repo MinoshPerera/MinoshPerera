@@ -21,7 +21,7 @@ I enjoy building **AI-driven products, intelligent automation systems, and real-
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 - 🎓 **BSc (Hons) in Electrical & Electronics Engineering — SLIIT**
 - 🤖 Passionate about **AI systems, LLMs, and applied machine learning**
@@ -30,7 +30,7 @@ I enjoy building **AI-driven products, intelligent automation systems, and real-
 - 📍 Based in **Sri Lanka**
 
 
-# 🧑‍💻 Programming Languages
+### 🧑‍💻 Programming Languages
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
@@ -44,7 +44,7 @@ I enjoy building **AI-driven products, intelligent automation systems, and real-
 </p>
 
 
-# ⚙️ Frameworks & Development Tools
+### ⚙️ Frameworks & Development Tools
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
@@ -58,7 +58,7 @@ I enjoy building **AI-driven products, intelligent automation systems, and real-
 </p>
 
 
-# 📊 Data & ML Tools
+### 📊 Data & ML Tools
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
@@ -74,7 +74,7 @@ I enjoy building **AI-driven products, intelligent automation systems, and real-
 </p>
 
 
-# 🗄️ Databases & Vector Stores
+### 🗄️ Databases & Vector Stores
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
@@ -83,7 +83,7 @@ I enjoy building **AI-driven products, intelligent automation systems, and real-
 </p>
 
 
-# ☁️ Cloud, DevOps & Messaging
+### ☁️ Cloud, DevOps & Messaging
 
 <p align="left">
 <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.64.0/files/light/openai.png" width="40" height="40"/>
@@ -97,7 +97,7 @@ I enjoy building **AI-driven products, intelligent automation systems, and real-
 </p>
 
 
-# 🔧 Version Control
+### 🔧 Version Control
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -106,7 +106,7 @@ I enjoy building **AI-driven products, intelligent automation systems, and real-
 </p>
 
 
-# 📈 GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
 
@@ -119,7 +119,7 @@ I enjoy building **AI-driven products, intelligent automation systems, and real-
 </div>
 
 
-# 📢 Let's Connect!
+### 📢 Let's Connect!
 
 I'm always open to collaboration, research, and product development in:
 
