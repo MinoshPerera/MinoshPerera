@@ -13,151 +13,133 @@
 
 I’m a **graduate in Electrical & Electronics Engineering** with a strong focus on **Artificial Intelligence, Machine Learning, and Cloud-native systems**.
 
-Currently working as an **AI/ML Engineer Intern at Aethria Solutions**, where I architected and deployed **RAG (Retrieval-Augmented Generation) systems** - achieving faster, scalable, and intelligent retrieval. I also gained valuable experience as a **Cloud Engineer Intern at Huawei**, contributing to **scalable, cost-efficient AI/ML solutions** on cloud platforms.  
-I’m continuously exploring the intersection of **Electrical & Electronic Engineering and intelligent software systems**, and I love building **innovative AI-driven products** that solve real-world problems.  
+Currently working as an **AI/ML Engineer Intern at Aethria Solutions**, where I architected and deployed **RAG (Retrieval-Augmented Generation) systems** for scalable and intelligent retrieval.  
+
+I also gained valuable experience as a **Cloud Engineer Intern at Huawei**, contributing to **cost-efficient and scalable AI/ML solutions** on cloud platforms.
+
+I enjoy building **AI-driven products, intelligent automation systems, and real-world ML solutions**.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 🎓 BSc (Hons) in Electrical & Electronics Engineering at **SLIIT**
-* 🤖 Passionate about combining real-world problems with intelligent system solutions.
-* 💬 Ask me about AI, ML, Computer Vision, EEE projects, and cloud-based AI
-* 📍 Based in Sri Lanka
+- 🎓 **BSc (Hons) in Electrical & Electronics Engineering — SLIIT**
+- 🤖 Passionate about **AI systems, LLMs, and applied machine learning**
+- ☁️ Interested in **Cloud-native AI, MLOps, and scalable AI infrastructure**
+- 🔋 Exploring **AI applications in Electrical & Energy Systems**
+- 📍 Based in **Sri Lanka**
 
 ---
 
-### 🛠️ Languages and Tools
-
-#### 🧑‍💻 Programming Languages
+# 🧑‍💻 Programming Languages
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-</p>
-
-#### ⚙️ Backend,Frameworks & Tools
-
-<p align="left">
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit" width="40" height="40"/></a>
-  <a href="https://www.chainlit.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/128686189?s=200&v=4" alt="Chainlit" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/></a>
-</p>
-
-#### 📊 Data & ML Tools
-
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
-  <a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="60" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
-  <a href="https://keras.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/></a>
-</p>
-
-#### 🗄️ Databases & Vector Stores
-
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.trychroma.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/110412940?s=200&v=4" alt="ChromaDB" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/facebookresearch/faiss" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/69631?s=200&v=4" alt="Faiss" width="40" height="40"/>
-  </a>
-</p>
-
-#### 🤖 Cloud, DevOps & Messaging
-
-<p align="left">
-  <a href="https://platform.openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.64.0/files/light/openai.png" alt="OpenAI Logo" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins Logo" width="40" height="40"/>
-  </a>
-  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ Logo" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman Logo" width="40" height="40"/>
-  </a>
-  <a href="https://www.huaweicloud.com/intl/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://res-static.hc-cdn.cn/cloudbu-site/intl/en-us/yunying/new-header/logo.png" alt="Huawei Cloud Logo" width="40" height="40"/>
-  </a>
-  <a href="https://ollama.com/" target="_blank" rel="noreferrer">
-    <img src="https://ollama.com/public/ollama.png" alt="Ollama Logo" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure Logo" width="40" height="40"/>
-  </a>
-</p>
-
-#### 🧹 Version Control
-
-<p style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Logo" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Logo" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Logo" width="40" height="40"/>
-  </a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats 
+# ⚙️ Frameworks & Development Tools
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
+<img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/128686189?s=200&v=4" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
+</p>
+
+---
+
+# 📊 Data & ML Tools
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+# 🗄️ Databases & Vector Stores
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/110412940?s=200&v=4" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/69631?s=200&v=4" width="40" height="40"/>
+</p>
+
+---
+
+# ☁️ Cloud, DevOps & Messaging
+
+<p align="left">
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.64.0/files/light/openai.png" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+<img src="https://res-static.hc-cdn.cn/cloudbu-site/intl/en-us/yunying/new-header/logo.png" width="40" height="40"/>
+<img src="https://ollama.com/public/ollama.png" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="40" height="40"/>
+</p>
+
+---
+
+# 🔧 Version Control
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+# 📈 GitHub Stats
 
 <div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=minoshperera&show_icons=true&theme=radical&cache_seconds=1800" />
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minoshperera&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" />
-</td>
-</tr>
-</table>
+
+<img src="https://github-readme-stats.vercel.app/api?username=minoshperera&show_icons=true&theme=radical&cache_seconds=1800"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minoshperera&layout=compact&theme=radical&langs_count=6&hide=jupyter%20notebook,html,css&cache_seconds=1800"/>
+
+<img src="https://streak-stats.demolab.com?user=minoshperera&theme=radical"/>
+
 </div>
 
 ---
 
-### 📢 Let's Connect!
+# 📢 Let's Connect!
 
-I'm always open to collaboration, research, and product development in the fields of:
+I'm always open to collaboration, research, and product development in:
 
 - 🚀 AI/ML & LLM-based product development  
 - 🔁 RAG systems & intelligent agents  
 - ☁️ Cloud-native AI & MLOps  
 - 🔋 AI applications in Electrical & Energy systems  
-- 🧠 Applied Research in Sustainable AI  
+- 🧠 Applied AI Research  
 
-📩 Reach out via [Email](mailto:sithijaperera3@gmail.com) or [LinkedIn](https://linkedin.com/in/minoshperera) — let’s build something great together!
+📩 Reach out via:
+
+- **Email:** sithijaperera3@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/minoshperera  
+
+Let's build something impactful together!
