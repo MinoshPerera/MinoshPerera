@@ -109,8 +109,10 @@ I’m continuously exploring the intersection of **Electrical & Electronic Engin
   <a href="https://ollama.com/" target="_blank" rel="noreferrer">
     <img src="https://ollama.com/public/ollama.png" alt="Ollama Logo" width="40" height="40"/>
   </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure Logo" width="40" height="40"/>
+  </a>
 </p>
-
 
 #### 🧹 Version Control
 
