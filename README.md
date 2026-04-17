@@ -13,11 +13,13 @@
 
 I’m a **graduate in Electrical & Electronics Engineering** with a strong focus on **Artificial Intelligence, Machine Learning, and Cloud-native systems**.
 
-Currently working as an **AI/ML Engineer Intern at Aethria Solutions**, where I architected and deployed **RAG (Retrieval-Augmented Generation) systems** for scalable and intelligent retrieval.  
+Currently working as an **AI Engineer at Whiterock Global Solutions**, where I design and deploy **AI-powered cloud-based CRM and ERP systems** with scalable backend architectures, intelligent automation, and seamless CI/CD integration.  
 
-I also gained valuable experience as a **Cloud Engineer Intern at Huawei**, contributing to **cost-efficient and scalable AI/ML solutions** on cloud platforms.
+Previously, I worked as an **AI/ML Engineer Intern at Aethria Solutions**, where I architected and deployed **RAG (Retrieval-Augmented Generation) systems** for scalable and intelligent retrieval.  
 
-I enjoy building **AI-driven products, intelligent automation systems, and real-world ML solutions**.
+I also gained valuable experience as a **Cloud Engineer Intern at Huawei**, contributing to **cost-efficient and scalable AI/ML solutions** on cloud platforms.  
+
+I enjoy building **AI-driven products, intelligent automation systems, and real-world ML solutions**.  
 
 ---
 
